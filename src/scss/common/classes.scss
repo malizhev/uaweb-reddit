@@ -23,42 +23,13 @@
 	}
 }
 
-._btn--load
-
-._nav {
-
-	ul {
-		
-		margin: 0;
-		padding: 0;
-		list-style: none;
-
-		li {
-
-			display: block;
-
-			a {
-				text-decoration: none;
-			}
-		}
-	}
-}
-
-._inline-nav {
-
-	ul {
-		
-		margin: 0;
-		padding: 0;
-		list-style: none;
-
-		li {
-
-			display: inline-block;
-
-			a {
-				text-decoration: none;
-			}
-		}
-	}
+.info-message {
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: transparentize($color-primary, .25);
+    text-align: center;
+    color: #fff;
 }

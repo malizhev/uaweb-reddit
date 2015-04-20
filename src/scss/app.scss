@@ -32,12 +32,3 @@
 	box-sizing: border-box;
 	animation: 1s spinning infinite;
 }
-
-@keyframes spinning {
-	from {
-		transform: rotate(0);
-	}
-	to {
-		transform: rotate(360deg);
-	}
-}

@@ -6,10 +6,15 @@ import { Link } from './../utils/Router.jsx';
 import Tabs from './../components/Tabs.jsx';
 import Subreddit from './../components/Subreddit.jsx';
 
+import Reddit from './../api/Reddit.jsx';
+
+import ServiceWorker from './../utils/ServiceWorker.jsx';
+
 import { SubredditLoad } from './../actions/SubredditActions.jsx';
 import SubredditStore from './../stores/SubredditStore.jsx';
 
 const PAGE_COUNT = 25; // Number of items per page
+var pagesCached = 0;   // Counter of pages cached
 
 export default class SubredditsView extends React.Component {
 
@@ -23,6 +28,7 @@ export default class SubredditsView extends React.Component {
 
 		this.loadItems = this.loadItems.bind(this);
 		this.readMore = this.readMore.bind(this);
+		this.cachePages = this.cachePages.bind(this);
 	}
 
 	componentWillReceiveProps(props) {
@@ -47,20 +53,45 @@ export default class SubredditsView extends React.Component {
 					after: res.data.after, 
 					before: res.data.before
 				}); 
+
+				this.cachePages({
+					items: res.data.children, 
+					after: res.data.after,
+					subreddit: subreddit,
+					section: section
+				});
 			})
 			.catch((err) => this.setState({error: err}));
 	}
 
-	readMore() {
+	readMore(append) {
 		this.setState({ page: ++this.state.page });
 		this.loadItems({ 
 			after: this.state.after,
 			count: this.state.page * PAGE_COUNT
-		}, true);
+		}, append);
 	}
 
 	componentDidMount() {
 		this.loadItems();
+	}
+
+	cachePages(params) {
+		if (!ServiceWorker.hasSupport() || !ServiceWorker.hasControl()) return;
+
+		var promises = [];
+
+		params.items.forEach((item) => {
+			var p = Reddit.getPost(params.subreddit, item.data.id);
+			promises.push(p);
+		});
+		// Cache next page
+		Promise.all(promises)
+			.then(() => {
+				pagesCached++;
+				Reddit.getSubreddit(params.subreddit, params.section, { 
+					after: params.after, count: PAGE_COUNT * pagesCached});
+			});
 	}
 
 	render() {
@@ -74,6 +105,7 @@ export default class SubredditsView extends React.Component {
 		];
 
 		return (
+
 			<div className = "app-subreddit">
 				
 				<header className = "_header">
@@ -82,10 +114,14 @@ export default class SubredditsView extends React.Component {
 						<Tabs items = { tabsItems } className = "app-subreddit-tabs" />
 					</div>
 				</header>
+
 				<div className="_container">
 					<Subreddit items = { this.state.items } />
 				</div>
-				{ (this.state.after) ? (<button onClick = { this.readMore } className = "_btn _btn--load">Load more</button>) : null }
+
+				{ (this.state.after) ? 
+					(<button onClick = { this.readMore.bind(this, true) } className = "_btn _btn--load">Load more</button>) 
+				: null }
 
 				{ (this.state.error) ? (<div className = "_error">{ this.state.error.toString() }</div>) : null }
 			</div>

@@ -3,14 +3,18 @@ import Reflux from 'reflux';
 import Page from 'page';
 
 import { Router, Link } from './utils/Router.jsx';
+
 import { RouterActions } from './actions/RouterActions.jsx';
 
-//import StatusStore from './stores/StatusStore.jsx';
 import HttpStatus from './components/HttpStatus.jsx';
 
 import HomeView from './views/HomeView.jsx';
 import SubredditsView from './views/SubredditsView.jsx';
 import PostView from './views/PostView.jsx';
+
+import ServiceWorker from './utils/ServiceWorker.jsx';
+
+ServiceWorker.register();
 
 class Application extends React.Component {
 
@@ -22,38 +26,14 @@ class Application extends React.Component {
 	}
 
 	componentDidMount() {
-        //this.unsubscribe = StatusStore.listen(this.onHttpStatus);
 
-        // new Router({
-        // 	base: "/?",
-        // 	routes: [
-        // 		{
-        // 			path: "/",
-        // 			handler: (ctx) => { this.setState({ route: <PostView params = {ctx._params} /> }) }
-        // 		},
-        // 		{
-        // 			path: "/:subreddit/:section?",
-        // 			handler: (ctx) => {
-		      //   		console.log(ctx)
-		      //   		this.setState({ route: <SubredditsView params = {ctx._params} /> })
-		      //   	}
-        // 		},
-        // 		{
-        // 			path: "/:subreddit/comments/:postId",
-        // 			handler: (ctx) => {
-		      //   		this.setState({ route: <PostView params = {ctx._params} /> })
-		      //   	}
-        // 		}
-        // 	]
-        // })
-
+        // Routing
         Page.base(`${location.pathname}?`);
         Page("*", (ctx, next) => { 
         	var params = ctx.params[0].split("/");
         	params.shift();
         	ctx._params = params;
         	RouterActions.routeChanged(ctx);
-        	//console.log(ctx);
         	next();
         });
         Page("/", (ctx) => this.setState({ route: <HomeView /> }));
@@ -62,7 +42,6 @@ class Application extends React.Component {
         	}
         );
         Page("/:subreddit/:section?", (ctx) => {
-        		console.log(ctx)
         		this.setState({ route: <SubredditsView params = {ctx._params} /> })
         	}
         );
@@ -83,3 +62,5 @@ class Application extends React.Component {
 }
 
 React.render(<Application />, document.body);
+
+

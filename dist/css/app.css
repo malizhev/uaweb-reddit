@@ -619,23 +619,15 @@ blockquote {
   ._btn--load:hover {
     background: #449fdb; }
 
-._btn--load ._nav ul {
-  margin: 0;
-  padding: 0;
-  list-style: none; }
-  ._btn--load ._nav ul li {
-    display: block; }
-    ._btn--load ._nav ul li a {
-      text-decoration: none; }
-
-._inline-nav ul {
-  margin: 0;
-  padding: 0;
-  list-style: none; }
-  ._inline-nav ul li {
-    display: inline-block; }
-    ._inline-nav ul li a {
-      text-decoration: none; }
+.info-message {
+  padding: 20px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(68, 159, 219, 0.75);
+  text-align: center;
+  color: #fff; }
 
 @-webkit-keyframes spinning {
   from {
@@ -839,12 +831,3 @@ blockquote {
   box-sizing: border-box;
   -webkit-animation: 1s spinning infinite;
           animation: 1s spinning infinite; }
-
-@keyframes spinning {
-  from {
-    -webkit-transform: rotate(0);
-            transform: rotate(0); }
-
-  to {
-    -webkit-transform: rotate(360deg);
-            transform: rotate(360deg); } }
