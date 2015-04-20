@@ -1,0 +1,43 @@
+@import "vendor/normalize";
+
+@import "common/variables";
+@import "common/mixins";
+@import "common/general";
+@import "common/defaults";
+@import "common/classes";
+//@import "common/icons";
+@import "common/animations";
+
+@import "components/header";
+@import "components/search";
+@import "components/tabs";
+@import "components/subreddit";
+@import "components/post";
+@import "components/error";
+
+@import "views/home";
+@import "views/subreddit";
+@import "views/post";
+
+.loadingBar {
+	position: fixed;
+	top: 10px;
+	left: 10px;
+	width: 35px;
+	height: 35px;
+	border: 2px solid #449fdb;
+	border-bottom-color: transparent;
+	border-left-color: transparent;
+	border-radius: 99px;
+	box-sizing: border-box;
+	animation: 1s spinning infinite;
+}
+
+@keyframes spinning {
+	from {
+		transform: rotate(0);
+	}
+	to {
+		transform: rotate(360deg);
+	}
+}

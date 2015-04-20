@@ -1,0 +1,35 @@
+._post-body-content {
+    padding: 20px;
+    background: #fff;
+}
+
+._post-body-title {
+	font-size: 150%;
+	text-align: center;
+}
+
+._post-comments ul {
+    list-style: none;
+    padding: 0;
+}
+
+._post-comments-item {
+    background: #fff;
+    padding: 10px 20px;
+    margin: 10px 0;
+    border-left: 2px solid $color-primary;
+}
+
+._post-comments-header {
+    display: flex;
+    justify-content: space-between;
+    font-size: 75%;
+}
+
+._post-comments--empty {
+    margin: 20px 0 0;
+    padding: 40px;
+    background: #fff;
+    text-align: center;
+    color: transparentize($text-color, .5);
+}

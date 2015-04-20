@@ -1,0 +1,17 @@
+@mixin textbox() {
+	position: relative;
+	// padding: 10px 20px 10px 5px;
+	padding: 10px 5px 10px 5px;
+	border: 0;
+	border-bottom: $border-width-default solid currentcolor;
+	background: none;
+	color: $color-primary;
+	box-sizing: border-box;
+	outline: none;
+}
+
+@mixin button-reset() {
+	border: 0;
+	outline: 0;
+	background: none;
+}

@@ -1,0 +1,31 @@
+/* COLORS */
+
+$color-primary: #449fdb;
+$color-error: #D9534F;
+$text-color: #6E6E6E;
+$background: #F3F6F9;
+
+
+/* FONTS */
+
+$font-family: "PT Sans", "Helvetica", "Segoe UI", "Ubuntu", "Arial", sans-serif;
+
+$font-size: 			100%;    
+
+$font-weight: normal;
+$font-style: normal;
+
+$line-height: 1.25 * $font-size;
+
+
+/* BOX MODEL */
+
+$container-width: 1200px;
+$header-height: 60px;
+$content-offset-top: 36px;
+
+$login-box-width: 270px;
+
+$border-width-default: 2px;
+
+$datepicker-cell: 40px;

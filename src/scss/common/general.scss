@@ -1,0 +1,47 @@
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+	font: {
+		weight: $font-weight;
+		family: $font-family;
+		style: $font-style;
+		size: $font-size;
+	}
+	line-height: $line-height;
+	color: $text-color;
+	background-color: $background;
+	overflow-y: scroll;
+}
+
+.app {
+	display: flex;
+	height: 100%;
+
+	.app-wrapper {
+		flex: 1 0 100%;
+		display: flex;
+
+		> div {
+			flex: 1 0;
+		}
+	}
+}
+
+::-webkit-input-placeholder {
+   color: transparentize($color-primary, .7);
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: transparentize($color-primary, .7);  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: transparentize($color-primary, .7);  
+}
+
+:-ms-input-placeholder {  
+   color: transparentize($color-primary, .7);  
+}
