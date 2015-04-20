@@ -619,6 +619,7 @@ blockquote {
   ._btn--load:hover {
     background: #449fdb; }
 
+<<<<<<< HEAD
 ._btn--load ._nav ul {
   margin: 0;
   padding: 0;
@@ -636,6 +637,17 @@ blockquote {
     display: inline-block; }
     ._inline-nav ul li a {
       text-decoration: none; }
+=======
+.info-message {
+  padding: 20px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(68, 159, 219, 0.75);
+  text-align: center;
+  color: #fff; }
+>>>>>>> gh-pages
 
 @-webkit-keyframes spinning {
   from {
@@ -839,6 +851,7 @@ blockquote {
   box-sizing: border-box;
   -webkit-animation: 1s spinning infinite;
           animation: 1s spinning infinite; }
+<<<<<<< HEAD
 
 @keyframes spinning {
   from {
@@ -848,3 +861,5 @@ blockquote {
   to {
     -webkit-transform: rotate(360deg);
             transform: rotate(360deg); } }
+=======
+>>>>>>> gh-pages
