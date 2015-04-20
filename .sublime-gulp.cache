@@ -1,1 +1,0 @@
-{"D:\\Work\\Projects\\uaweb7-2\\gulpfile.js":{"sha1":"e61e87f3d670711b2bf4f89accc65690439fbc08","tasks":{"build:scss":{"name":"build:scss","dependencies":""},"build:js":{"name":"build:js","dependencies":""},"watch":{"name":"watch","dependencies":""},"default":{"name":"default","dependencies":"build:js build:scss watch"}}}}
