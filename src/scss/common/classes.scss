@@ -1,0 +1,64 @@
+._container {
+	max-width: $container-width;
+	margin: 0 auto;
+	padding: 0 10px;
+	box-sizing: border-box;
+}
+
+._btn {
+	border: 0;
+	outline: 0;
+	background: none;
+}
+
+._btn--load {
+    background: transparentize($color-primary, .4);
+    width: 100%;
+    color: #fff;
+    padding: 20px;
+    transition: .3s ease;
+
+    &:hover {
+	    background: $color-primary;
+	}
+}
+
+._btn--load
+
+._nav {
+
+	ul {
+		
+		margin: 0;
+		padding: 0;
+		list-style: none;
+
+		li {
+
+			display: block;
+
+			a {
+				text-decoration: none;
+			}
+		}
+	}
+}
+
+._inline-nav {
+
+	ul {
+		
+		margin: 0;
+		padding: 0;
+		list-style: none;
+
+		li {
+
+			display: inline-block;
+
+			a {
+				text-decoration: none;
+			}
+		}
+	}
+}

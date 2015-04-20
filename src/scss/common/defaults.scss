@@ -1,0 +1,49 @@
+a {
+	color: $color-primary;
+	outline: none !important;
+	text-decoration: none;
+
+	&._dec {
+		text-decoration: underline;
+	}
+}
+
+h1 {
+	line-height: 32px;
+	font-size: 150%;
+	font-weight: 400;
+	color: $color-primary;
+}
+
+h2 {
+	line-height: 32px;
+	font-size: 125%;
+	font-weight: 400;
+	//color: $color-primary;
+}
+
+button + button {
+    margin-left: 20px;
+}
+
+input {
+	@include textbox;
+}
+
+input[type = "text"]::-ms-clear {
+    display: none;
+}
+
+/* Headings */
+
+h3 {
+	color: $color-primary;
+	opacity: .6;
+	line-height: 125%;
+	text-align: center;
+}
+
+blockquote {
+    font-style: italic;
+    opacity: .6;
+}

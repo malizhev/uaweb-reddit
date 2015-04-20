@@ -1,0 +1,2095 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"pos",
+				"pos-f	position: fixed;"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"include",
+				"include	@include"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"imp",
+				"import〔keyword〕"
+			],
+			[
+				"anim",
+				"anim-	animation: ${1:name} ${2:duration} ${3:timing-function} ${4:delay} ${5:iteration-count} ${6:direction} ${7:fill-mode};"
+			],
+			[
+				"bordr",
+				"border-radius"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"Su",
+				"SubredditLoad"
+			],
+			[
+				"Sub",
+				"SubredditStore"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"loadI",
+				"loadItemsSuccess"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"bui",
+				"build:scss"
+			],
+			[
+				"cl",
+				"cl	console.log"
+			],
+			[
+				"clas",
+				"className〔variable〕"
+			],
+			[
+				"Ta",
+				"TabLink"
+			],
+			[
+				"ex",
+				"extends"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"Rou",
+				"Router"
+			],
+			[
+				"Route",
+				"RouteHandler"
+			],
+			[
+				"Eve",
+				"Events"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"He",
+				"Header"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"list",
+				"listClasses"
+			],
+			[
+				"Header",
+				"HeaderControl"
+			],
+			[
+				"$loc",
+				"$location	AngularJS(DI)"
+			],
+			[
+				"cam",
+				"campaigns"
+			],
+			[
+				"camp",
+				"campaignListDirective〔function〕"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"tr",
+				"transparentize	transparentize()"
+			],
+			[
+				"mo",
+				"mouseenter"
+			],
+			[
+				"boo",
+				"bootstrap"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"bo",
+				"border-box"
+			],
+			[
+				"fon",
+				"font-size-big"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"mixin",
+				"mixin	@mixin"
+			],
+			[
+				"font-",
+				"font-size-heading"
+			],
+			[
+				"da",
+				"dateStart"
+			],
+			[
+				"previe",
+				"previewDate"
+			],
+			[
+				"trans",
+				"translate3d"
+			],
+			[
+				"user",
+				"userMessage"
+			],
+			[
+				"hand",
+				"handshakeData"
+			],
+			[
+				"$reg",
+				"$regInput"
+			],
+			[
+				"modul",
+				"module	JS module pattern"
+			],
+			[
+				"re",
+				"re	require"
+			],
+			[
+				"h",
+				"hover"
+			],
+			[
+				"preview",
+				"previewAd"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"ba",
+				"background-blue"
+			],
+			[
+				"animation-",
+				"animation-duration:   (property)"
+			],
+			[
+				"date",
+				"datepicker"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"borcol",
+				"border-color"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"form",
+				"formGroups"
+			],
+			[
+				"con",
+				"counter-increment"
+			],
+			[
+				"coutn",
+				"counter-reset"
+			],
+			[
+				"$con",
+				"$container"
+			],
+			[
+				"des",
+				"destructModal"
+			],
+			[
+				"c",
+				"children"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"toL",
+				"toLowerCase  (function)"
+			],
+			[
+				"to",
+				"toUTCString  (function)"
+			],
+			[
+				"v",
+				"venueDatepicker"
+			],
+			[
+				"opac",
+				"opacity"
+			],
+			[
+				"opaci",
+				"opacity"
+			],
+			[
+				"color",
+				"color-primary"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"tra",
+				"transition:   (property)"
+			],
+			[
+				"backg",
+				"background-blue"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-blue"
+			],
+			[
+				"borde",
+				"border-width-default"
+			],
+			[
+				"backgroun",
+				"background-blue"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"pre",
+				"preventDefault()	Event"
+			],
+			[
+				"sub",
+				"substring(${0:indexA})	String"
+			],
+			[
+				"stop",
+				"stopPropagation()	Event"
+			],
+			[
+				"venueheader",
+				"venueHeaderControl"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"td",
+				"td-u	text-decoration: underline;"
+			],
+			[
+				"opa",
+				"opacity"
+			],
+			[
+				"A",
+				"AppCtrl"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"us",
+				"users"
+			],
+			[
+				"get",
+				"getToken"
+			],
+			[
+				"sr",
+				"strategyOptions"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"err",
+				"errorHandler"
+			],
+			[
+				"lo",
+				"local-register"
+			],
+			[
+				"Sta",
+				"LocalStrategy  (variable)"
+			],
+			[
+				"new",
+				"newUser"
+			],
+			[
+				"login",
+				"loginController"
+			],
+			[
+				"regis",
+				"registerController"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"ht",
+				"htmlmin"
+			],
+			[
+				"di",
+				"dist_html  (variable)"
+			],
+			[
+				"from",
+				"fromState"
+			],
+			[
+				"ev",
+				"events"
+			],
+			[
+				"$loca",
+				"$location	AngularJS"
+			],
+			[
+				"is",
+				"isPublic"
+			],
+			[
+				"$r",
+				"$rootScope	AngularJS"
+			],
+			[
+				"Login",
+				"LoginCtrl"
+			],
+			[
+				"mod",
+				"verbose_module	AngularJS"
+			],
+			[
+				"De",
+				"DeviceInfo"
+			],
+			[
+				"modu",
+				"verbose_module	AngularJS"
+			],
+			[
+				"Date",
+				"datepickerInstance"
+			],
+			[
+				"ins",
+				"_instance"
+			],
+			[
+				"colo",
+				"color-primary"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"ve",
+				"venue"
+			],
+			[
+				"nth-child",
+				"nth-last-child(  (pseudo-class)"
+			],
+			[
+				"nth",
+				"nth-last-child(  (pseudo-class)"
+			],
+			[
+				"mri",
+				"margin-right"
+			],
+			[
+				"texa",
+				"text-align:   (property)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1303,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/views/SubredditsView.jsx",
+			"settings":
+			{
+				"buffer_size": 2289,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/components/Tabs.jsx",
+			"settings":
+			{
+				"buffer_size": 350,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/common/animations.scss",
+			"settings":
+			{
+				"buffer_size": 96,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/components/Post.jsx",
+			"settings":
+			{
+				"buffer_size": 1780,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/app.jsx",
+			"settings":
+			{
+				"buffer_size": 2270,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/utils/Router.jsx",
+			"settings":
+			{
+				"buffer_size": 1372,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/components/Subreddit.jsx",
+			"settings":
+			{
+				"buffer_size": 599,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/stores/SubredditStore.jsx",
+			"settings":
+			{
+				"buffer_size": 486,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/common/general.scss",
+			"settings":
+			{
+				"buffer_size": 714,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/common/variables.scss",
+			"settings":
+			{
+				"buffer_size": 479,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/components/ribbon.scss",
+			"settings":
+			{
+				"buffer_size": 301,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/common/defaults.scss",
+			"settings":
+			{
+				"buffer_size": 535,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/views/HomeView.jsx",
+			"settings":
+			{
+				"buffer_size": 664,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/views/home.scss",
+			"settings":
+			{
+				"buffer_size": 116,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/components/header.scss",
+			"settings":
+			{
+				"buffer_size": 288,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/views/subreddit.scss",
+			"settings":
+			{
+				"buffer_size": 48,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/app.scss",
+			"settings":
+			{
+				"buffer_size": 715,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/components/tabs.scss",
+			"settings":
+			{
+				"buffer_size": 261,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/components/search.scss",
+			"settings":
+			{
+				"buffer_size": 263,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scss/common/mixins.scss",
+			"settings":
+			{
+				"buffer_size": 328,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/stores/StatusStore.jsx",
+			"settings":
+			{
+				"buffer_size": 351,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/actions/SubredditActions.jsx",
+			"settings":
+			{
+				"buffer_size": 142,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/app/api/Reddit.jsx",
+			"settings":
+			{
+				"buffer_size": 1130,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "g",
+		"selected_items":
+		[
+			[
+				"g",
+				"Gulp"
+			],
+			[
+				"gk",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"gs",
+				"Gulp: Show panel"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"suben",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"dis",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"ki",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"lintd",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"linte",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"ena",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"linterd",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"linteren",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"linter de",
+				"SublimeLinter: Disable Debug Mode"
+			],
+			[
+				"lint",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"disa",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"pacin",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"paci",
+				"Package Control: Install Package"
+			],
+			[
+				"gu",
+				"Gulp"
+			],
+			[
+				"gsh",
+				"Gulp: Show panel"
+			],
+			[
+				"gki",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"gkil",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"paclis",
+				"Package Control: List Packages"
+			],
+			[
+				"packain",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"k",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"G",
+				"Gulp"
+			],
+			[
+				"gul",
+				"Gulp"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"svc",
+				"Snippet: removeChild"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"guki",
+				"Gulp: Kill running tasks"
+			],
+			[
+				"gulp",
+				"Gulp: Show panel"
+			],
+			[
+				"pacl",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Snippet: ion-button-navicon"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"npm",
+				"npm: Install Package"
+			],
+			[
+				"node",
+				"NodeRequirer: Set Plugin Options"
+			],
+			[
+				"inspa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"tas",
+				"Tasks: Open Link"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"fix",
+				"FixMyJS"
+			],
+			[
+				"Package Control: IN",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: int",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Work/Projects/uaweb7-2",
+		"/D/Work/Projects/uaweb7-2/dist",
+		"/D/Work/Projects/uaweb7-2/src",
+		"/D/Work/Projects/uaweb7-2/src/app",
+		"/D/Work/Projects/uaweb7-2/src/app/actions",
+		"/D/Work/Projects/uaweb7-2/src/app/api",
+		"/D/Work/Projects/uaweb7-2/src/app/components",
+		"/D/Work/Projects/uaweb7-2/src/app/stores",
+		"/D/Work/Projects/uaweb7-2/src/app/utils",
+		"/D/Work/Projects/uaweb7-2/src/app/views",
+		"/D/Work/Projects/uaweb7-2/src/libs",
+		"/D/Work/Projects/uaweb7-2/src/scss",
+		"/D/Work/Projects/uaweb7-2/src/scss/common",
+		"/D/Work/Projects/uaweb7-2/src/scss/components",
+		"/D/Work/Projects/uaweb7-2/src/scss/views"
+	],
+	"file_history":
+	[
+		"/D/Work/Projects/HUA/log.txt",
+		"/D/Work/Projects/uaweb7-2/src/app/components/HttpStatus.jsx",
+		"/D/Work/Projects/uaweb7-2/src/libs/page.js",
+		"/D/Work/Demo/page.js/page.js",
+		"/D/Work/Demo/page.js/examples/basic/index.html",
+		"/C/Users/bogdan.malizhev/Desktop/tickets (2).html",
+		"/D/Work/Demo/page.js/examples/query-string/app.js",
+		"/D/Work/Projects/uaweb7-2/src/libs/queryString.js",
+		"/D/Work/Projects/uaweb7-2/src/scss/app.scss",
+		"/D/Work/Projects/uaweb7-2/src/app/actions/StatusActions.jsx",
+		"/D/Work/Projects/uaweb7-2/src/app/stores/StatusStore.jsx",
+		"/D/Work/Projects/Venue/webapp-react/package.json",
+		"/D/Work/Projects/uaweb7-2/gulpfile.js",
+		"/D/Work/Projects/uaweb7-2/src/app/components/Subreddit.jsx",
+		"/D/Work/Projects/uaweb7-2/worker.js",
+		"/D/Work/Projects/uaweb7-2/src/app/app.jsx",
+		"/D/Work/Projects/uaweb7-2/src/app/actions/Subreddits.js",
+		"/D/Work/Projects/uaweb7-2/package.json",
+		"/D/Work/Projects/uaweb7-2/dist/js/app.js",
+		"/D/Work/Projects/uaweb7-2/dist/js/workers/worker.js",
+		"/D/Work/Projects/uaweb7-2/uaweb7semi.sublime-project",
+		"/D/Work/Projects/uaweb7-2/uaweb7semi.sublime-workspace",
+		"/D/Work/Projects/HUA/app.js",
+		"/D/AdsToolTFS/Dev_v2/Src/Infopulse.Ads.MainWebSite/Ads_Responsive_Preview/index.html",
+		"/D/AdsToolTFS/Dev_v2/Src/Infopulse.Ads.MainWebSite/Ads_Responsive_Preview/ad/stage.html",
+		"/D/AdsToolTFS/Dev_v2/Src/Infopulse.Ads.MainWebSite/Ads_Responsive_Preview/ad/start.html",
+		"/D/Work/Demo/react-router/webpack.config.js",
+		"/D/Work/Demo/react-router/package.json",
+		"/D/Work/Demo/react-router/build/npm/package.json",
+		"/D/Work/Demo/react-router/node_modules/webpack-dev-server/lib/Server.js",
+		"/D/Work/Demo/react-router/tests.webpack.js",
+		"/D/Work/Demo/react-router/karma.conf.js",
+		"/D/AdsToolTFS/Dev_v2/TestUsersLogon/TestUsers-DEV_v2 ENV/TestUsersTokens.txt",
+		"/D/Work/Projects/Venue/webapp-react/node_modules/babelify/node_modules/babel-core/package.json",
+		"/D/Work/Projects/Venue/webapp/src/scss/framework/panels.scss",
+		"/D/Work/Projects/Venue/webapp-react/src/scss/components/ribbon.scss",
+		"/D/Work/Projects/Venue/webapp-react/src/scss/components/header.scss",
+		"/D/Work/Projects/Venue/webapp-react/src/scss/components/dropdown.scss",
+		"/D/Work/Projects/Venue/webapp-react/src/scss/components/tabs.scss",
+		"/D/Work/Projects/Venue/webapp/src/scss/framework/tabs.scss",
+		"/D/Work/Projects/Venue/webapp-react/src/app/components/header/headerControl.jsx",
+		"/D/Work/Projects/Venue/webapp-react/src/scss/common/general.scss",
+		"/D/Work/Projects/Venue/webapp-react/src/scss/common/classes.scss",
+		"/D/Work/Projects/Venue/webapp-react/src/scss/common/icons.scss",
+		"/D/Work/Projects/Venue/webapp/src/scss/framework/icons.scss",
+		"/D/Work/Projects/Venue/webapp-react/src/app/components/TabLink.js",
+		"/D/Work/Projects/Venue/webapp/src/app/common/directives/venueHeader/venueHeaderControl.tpl.html",
+		"/D/Work/Projects/Venue/webapp-react/src/scss/common/defaults.scss",
+		"/D/Work/Projects/Venue/webapp/src/scss/global.scss",
+		"/D/Work/Projects/Venue/webapp/src/scss/app.scss",
+		"/D/Work/Projects/Venue/webapp-react/src/scss/app.scss",
+		"/D/Work/Projects/Venue/webapp/src/app/common/directives/venueHeader/venueHeaderControl.js",
+		"/D/Work/Projects/Venue/webapp/src/scss/mixins.scss",
+		"/D/Work/Projects/Venue/webapp/src/scss/framework/default.scss",
+		"/D/Work/Projects/Venue/webapp/src/scss/framework/dropdown.scss",
+		"/D/Work/Projects/Venue/webapp/src/scss/framework/classes.scss",
+		"/D/Work/Projects/Venue/webapp/src/scss/framework/nav.scss",
+		"/D/Work/Projects/Venue/webapp/dist/index.html",
+		"/D/Work/Projects/Venue/webapp/src/scss/components/header.scss",
+		"/D/Work/Projects/Venue/webapp-react/dist/index.html",
+		"/C/Users/bogdan.malizhev/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/D/Work/Projects/Venue/webapp-react/gulpfile.js",
+		"/D/Work/Projects/Venue/webapp/src/app/app.tpl.html",
+		"/D/Work/Projects/Venue/webapp-react/src/app/components/header.jsx",
+		"/D/Work/Projects/Venue/webapp-react/src/app/app.jsx",
+		"/D/Work/Projects/Venue/webapp-react/index.js",
+		"/D/Work/Projects/Venue/webapp-react/dist/js/app.js",
+		"/D/Work/Demo/babel/gulpfile.js",
+		"/D/Work/Demo/babel/src/app.js",
+		"/C/Users/bogdan.malizhev/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/D/Work/Projects/Venue/webapp-react/node_modules/react/react.js",
+		"/D/Work/Demo/babel/src/dep.js",
+		"/D/AdsToolTFS/Dev_v2/Src/Infopulse.Ads.MainWebSite/Client/src/app/campaign/campaignListDirective.tpl.html",
+		"/D/AdsToolTFS/Dev_v2/Src/Infopulse.Ads.MainWebSite/Client/src/app/campaign/campaignEdit.tpl.html",
+		"/D/AdsToolTFS/Dev_v2/Src/Infopulse.Ads.MainWebSite/Client/src/app/home/home.tpl.html",
+		"/D/Work/Demo/essential-react/src/pages/home/page.jsx",
+		"/D/Work/Demo/essential-react/src/routers/logged_out.jsx",
+		"/D/Work/Demo/babel/dist/app.js",
+		"/D/AdsToolTFS/Dev_v2/Src/Infopulse.Ads.MainWebSite/Client/gulpfile.js",
+		"/D/Work/Demo/babel/src/data.json",
+		"/D/Work/Demo/babel/dist/app.min.js",
+		"/D/Work/Demo/babel/dist/all.js",
+		"/D/Work/Demo/babel/index.html",
+		"/D/Work/Demo/essential-react/src/main.jsx",
+		"/D/Work/Demo/essential-react/test/common/test_request.js",
+		"/D/Tools/jshint/jshint.conf",
+		"/D/Work/Demo/essential-react/test/polyfill.js",
+		"/D/Work/Demo/essential-react/webpack.local.config.js",
+		"/D/Work/Demo/essential-react/server.js",
+		"/D/AdsToolTFS/Dev_v2/Src/Infopulse.Ads.MainWebSite/Client/src/app/campaign/campaignModalAds.tpl.html",
+		"/D/AdsToolTFS/Dev_v2/Src/Infopulse.Ads.MainWebSite/Client/src/app/common/directives/highchart.js",
+		"/C/Users/bogdan.malizhev/AppData/Local/Temp/7zOAB81.tmp/style.css",
+		"/D/AdsToolTFS/Dev_v2/Src/Infopulse.Ads.MainWebSite/Client/src/app/campaign/campaignList.tpl.html",
+		"/D/AdsToolTFS/Dev_v2/Src/Infopulse.Ads.MainWebSite/Client/src/app/campaign/campaignListCtrl.js",
+		"/D/AdsToolTFS/Dev_v2/Src/Infopulse.Ads.MainWebSite/Client/src/app/campaign/campaign.js",
+		"/D/AdsToolTFS/Dev_v2/Src/Infopulse.Ads.MainWebSite/Client/adsTool 2.0.sublime-project",
+		"/D/AdsToolTFS/Dev_v2/Src/Infopulse.Ads.MainWebSite/Client/package.json",
+		"/D/Work/Projects/Venue/webapp/node_modules/browserify/node_modules/module-deps/index.js",
+		"/D/Work/Projects/Venue/webapp/node_modules/browserify/package.json",
+		"/D/AdsToolTFS/Dev_v2/Src/Infopulse.Ads.MainWebSite/Client/node_modules/browserify/package.json",
+		"/D/AdsToolTFS/Dev_v2/Src/Infopulse.Ads.MainWebSite/Client/node_modules/browserify/node_modules/module-deps/index.js",
+		"/C/Users/bogdan.malizhev/Documents/IISExpress/config/applicationhost.config",
+		"/D/Work/Projects/HUA/package.json",
+		"/D/Work/Projects/Venue/webapp/src/app/common/directives/venueAccordionInline.js",
+		"/D/Work/Demo/Angular2/quickstart/package.json",
+		"/D/Work/Demo/Angular2/quickstart/app.es6",
+		"/D/Work/Projects/Venue/webapp/src/scss/framework/accordion.scss",
+		"/D/Work/Demo/Angular2/quickstart/dist/es6-shim.js",
+		"/D/Work/Demo/Angular2/quickstart/angular2/src/core/application.js",
+		"/D/Work/Demo/Angular2/quickstart/angular2/annotations.js",
+		"/D/Work/Demo/Angular2/quickstart/angular2/angular2.js",
+		"/D/Work/Demo/Angular2/quickstart/gulpfile.js",
+		"/D/Work/Projects/Venue/webapp/src/app/events/events.js",
+		"/D/Work/Projects/Venue/webapp/src/scss/pages/events.scss",
+		"/D/Work/Projects/Venue/webapp/venue-webapp.sublime-project",
+		"/D/Work/Venue/webapp/venue-webapp.sublime-project",
+		"/D/Work/uaweb2015/package.json",
+		"/D/Work/uaweb2015/gitter-calc.js",
+		"/D/Work/uaweb2015/helpers/commandLine.js",
+		"/D/Work/Venue/webapp/src/app/users/UserSvc.js",
+		"/D/Work/Venue/webapp/src/app/events/events.js",
+		"/D/Work/Venue/webapp/venue.todo",
+		"/D/Work/Venue/webapp/src/scss/framework/classes.scss",
+		"/D/Work/Venue/webapp/src/scss/framework/date.scss",
+		"/D/Work/Venue/webapp/src/scss/framework/panels.scss",
+		"/D/Work/Venue/webapp/src/scss/pages/events.scss",
+		"/D/Work/Venue/webapp/src/app/login/login.tpl.html",
+		"/D/Work/Venue/webapp/src/app/users/users.tpl.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"D:\\AdsToolLocal\\trunk\\ads-server\\Infopulse.Ads.MainWebSite",
+			"D:\\AdsToolLocal\\trunk"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"8",
+			"$amoun",
+			"$background-blue",
+			"links",
+			"Reddit",
+			"	",
+			"params",
+			"#",
+			"hashbang",
+			"#!",
+			"page",
+			"Products",
+			"        ",
+			"            ",
+			"            	",
+			"        ",
+			"\\",
+			"isDeep = {true}",
+			"class",
+			"h1",
+			"mobile",
+			"td",
+			"Campaign",
+			"basedir",
+			"row.basedir",
+			"\\",
+			"class",
+			"add",
+			"enter",
+			"  ",
+			"90deg",
+			"100px",
+			"LEAFLET_MAP",
+			"36px",
+			"div",
+			"chechHeight",
+			"_box",
+			"_icon",
+			"has-error",
+			"app-login-error",
+			"<div class = \"_date-icon icon icon-calendar\"></div>",
+			"form-group-label",
+			"$element",
+			"users",
+			"build-html",
+			"build-js",
+			"build-css",
+			"form-group",
+			"				\n",
+			"newDate",
+			"click",
+			"template",
+			"contTemplate",
+			"event",
+			"dateStart",
+			"event.",
+			"dateStart",
+			";\n",
+			"50px",
+			"button",
+			"btn",
+			"setHand",
+			"hand",
+			"global",
+			"06",
+			".1",
+			"range",
+			"fill",
+			"setRange",
+			"range",
+			"fill",
+			"setRange",
+			"fill",
+			"setRange",
+			"update",
+			"datepicker",
+			"selected",
+			"hour",
+			", 'done': event.name",
+			"'selected'",
+			"_icon-holder",
+			"font-size",
+			"$background-blue;",
+			"$content",
+			"month",
+			"Dropdown",
+			"UTCToday",
+			"setDate",
+			".prev",
+			"prev",
+			"\"prev",
+			"\"prev\"",
+			"40px",
+			"ng-clic",
+			"_panel-picker _icon-holder",
+			"<i class = \"",
+			"<i c",
+			"<i class ",
+			"<i clas",
+			" ng-click = \"s",
+			"date",
+			"opacify",
+			"8",
+			"button",
+			"form-group",
+			"7",
+			"button",
+			"div",
+			"#449fdb",
+			"#72B6EC",
+			"pageFade",
+			"Upcoming",
+			"#72B6EC",
+			"#6e6e6e",
+			"EventsCtrl",
+			"app.events",
+			"if",
+			"2px",
+			"ui-sref-active = \"active\"",
+			".upcoming",
+			"ui-sref-active",
+			"app.events",
+			"350ms",
+			"#29d",
+			"cfp.loadingBar",
+			"chieffancypants.loadingBar",
+			"angular-loading-bar",
+			"#449FDB"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 16,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1220,
+								1220
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/app/views/SubredditsView.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2289,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1737,
+								1737
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1109.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/app/components/Tabs.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								303,
+								303
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/scss/common/animations.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 96,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/app/components/Post.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1780,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1654,
+								1654
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 763.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/app/app.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2270,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2120,
+								2120
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 962.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/app/utils/Router.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1320,
+								1320
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 570.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/app/components/Subreddit.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 599,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								552,
+								552
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/app/stores/SubredditStore.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/scss/common/general.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								368,
+								368
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 155.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/scss/common/variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								331,
+								331
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/scss/components/ribbon.scss",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "src/scss/common/defaults.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								273,
+								273
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "src/app/views/HomeView.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "src/scss/views/home.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								116,
+								116
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "src/scss/components/header.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "src/scss/views/subreddit.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 48,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "src/scss/app.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 715,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								567,
+								567
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "src/scss/components/tabs.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								228,
+								228
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "src/scss/components/search.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "src/scss/common/mixins.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								171
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "src/app/stores/StatusStore.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								262
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "src/app/actions/SubredditActions.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "src/app/api/Reddit.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								280,
+								280
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 123.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gulp_output":
+	{
+		"height": 96.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 122.0
+	},
+	"pinned_build_system": "",
+	"project": "uaweb7semi.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\AdsToolTFS\\Dev_v2\\Src\\Infopulse.Ads.MainWebSite\\Client\\adsTool 2.0.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

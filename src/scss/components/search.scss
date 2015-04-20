@@ -1,0 +1,19 @@
+._search {
+	display: flex;
+
+	input {
+		flex: 1 0;
+		border: 0;
+		font-size: 170%;
+	}
+
+	button {
+		@include button-reset;
+		background: transparentize($color-primary, .25);
+		color: #fff;
+		border-radius: 99px;
+		flex: 0 0 70px;
+		width: 70px;
+		height: 70px;
+	}
+}
