@@ -47,7 +47,7 @@ class Application extends React.Component {
         // 	]
         // })
 
-        Page.base("/?");
+        Page.base("/uaweb-reddit/?");
         Page("*", (ctx, next) => { 
         	var params = ctx.params[0].split("/");
         	params.shift();
